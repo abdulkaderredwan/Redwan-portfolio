@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 .header{
     color: orange;
 }
@@ -40,4 +43,20 @@ h1{
 }
 .sec-p{
     padding-right: 150px;
+}
+.final-sec{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exp-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px 10px 50px 10px;
+    box-shadow: 10px 10px 50px gray;
+}
+#web-dev-exp{
+    
 }
